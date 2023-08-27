@@ -1,0 +1,24 @@
+- id: readMore
+  translation: "Läs mer"
+- id: mainMenu
+  translation: "Menu"
+- id: allTags
+  translation: "All Tags"
+- id: tags
+  translation: "Tags"
+- id: lastModified
+  translation: "Last modified"
+- id: website
+  translation: ""
+- id: credits
+  translation: "Credits"
+- id: copyright
+  translation: "Copyright"
+- id: contacts
+  translation: "Contacts"
+- id: homepage
+  translation: "Homepage"
+- id: about
+  translation: "Om"
+- id: contact
+  translation: "Kontakta"
