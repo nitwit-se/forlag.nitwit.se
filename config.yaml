@@ -57,13 +57,13 @@ params:
   summary:
     # option to specify the default image in the summary list
     # the starting folder is configure in "assetDir" of this file
-    defaultImage : "/images/default_summary.jpg"
+    defaultImage : "/images/Dragonfly_Square.png"
   
   # loading options
   loading:
     # option to specify the loading image
     # the starting folder is configure in "assetDir" of this file
-    image: "/images/loaders/rings.svg"
+    image: "/images/loaders/hearts.svg"
 
   # main pages options
   mainPage:
