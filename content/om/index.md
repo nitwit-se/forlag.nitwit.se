@@ -108,8 +108,7 @@ kreativa processer.
 [Här kan du läsa mer om mig](https://spikdotter.se/om/) och [ta kontakt via LinkedIn](https://www.linkedin.com/in/fridanilsson/) 
  eller [Instagram](https://www.instagram.com/spikdotter/). 
 
-*Mark Dixon* - konslut och allmän IT expert. Sköter det logistiska och administrativa kring
-att driva förlag. 
+*Mark Dixon* - konslut och allmän IT-expert. Sköter det logistiska och administrativa kring förlaget. 
 
 
 
