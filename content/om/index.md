@@ -9,13 +9,6 @@ translationKey: about
 
 
 
-Vi satsar på böcker vi själva går igång på - svart humor, berörande relationer, vackert språk och modiga berättelser som klassas som romaner, men inte nödvändigtvis tillhör en viss begränsad genre.
-
-- Böcker som vi ger ut ska alltid ha ett budskap och väcka eftertanke.
-- Böcker som känns och inte fogar sig.
-- Böcker man vill stryka under i, citera och återkomma till.
-
-
 
 # Hur vi tänker… 
 
@@ -30,7 +23,7 @@ Böcker som vi ger ut ska svida, aldrig foga sig. Böcker man vill stryka under 
 och återkomma till. Språket är en lekstuga, bokmarknaden en djungel och vi tror på
 litteratur som växer med tiden.
 
-Vi gör som tror blir bäst i varje samarbete och tar avstamp i våra många långa yrkesår
+Vi gör det vi tror blir bäst i varje samarbete och tar avstamp i våra många långa yrkesår
 inom skrivande, marknadsföring, IT och entreprenörskap. En mix som kanske inte är
 självklar, men som visat sig kunna resultera i förunderliga fyrverkerier. 
 
